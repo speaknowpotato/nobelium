@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'Journey of oldmaru',
-  author: 'oldmaru',
+  title: 'Journey of speaknow',
+  author: 'speaknow',
   email: 'brightmzb@gmail.com',
   link: 'https://oldmaru.vercel.app/',
   description: 'MLOps, AWS, Kubeflow, Machine learning',
